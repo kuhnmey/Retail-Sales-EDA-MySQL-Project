@@ -225,9 +225,9 @@ SELECT p.product_id,
 FROM products p
 JOIN order_items os
     ON p.product_id = os.product_id
-WHERE (quantity * sales_amount) >
+WHERE (sales_amount) >
 (
-    SELECT AVG(quantity * sales_amount)
+    SELECT AVG(sales_amount)
     FROM order_items
 );
 ```
