@@ -1,0 +1,101 @@
+customer_id,customer_name,city,segment,signup_date
+C001,Customer_1,Ibadan,Home Office,2021-04-23
+C002,Customer_2,Kano,Consumer,2021-01-02
+C003,Customer_3,Port Harcourt,Corporate,2022-10-04
+C004,Customer_4,Kano,Consumer,2021-08-08
+C005,Customer_5,Kano,Home Office,2022-07-20
+C006,Customer_6,Abuja,Home Office,2023-05-05
+C007,Customer_7,Port Harcourt,Corporate,2023-09-24
+C008,Customer_8,Port Harcourt,Consumer,2023-01-06
+C009,Customer_9,Port Harcourt,Home Office,2021-08-13
+C010,Customer_10,Kano,Corporate,2022-01-20
+C011,Customer_11,Ibadan,Home Office,2022-02-07
+C012,Customer_12,Port Harcourt,Home Office,2022-09-30
+C013,Customer_13,Kano,Consumer,2021-05-10
+C014,Customer_14,Abuja,Home Office,2021-02-22
+C015,Customer_15,Ibadan,Consumer,2022-11-15
+C016,Customer_16,Abuja,Home Office,2022-12-31
+C017,Customer_17,Ibadan,Corporate,2022-11-03
+C018,Customer_18,Kano,Home Office,2022-12-11
+C019,Customer_19,Lagos,Consumer,2022-02-20
+C020,Customer_20,Ibadan,Consumer,2021-09-04
+C021,Customer_21,Abuja,Corporate,2023-04-16
+C022,Customer_22,Kano,Home Office,2022-03-15
+C023,Customer_23,Ibadan,Home Office,2021-07-22
+C024,Customer_24,Lagos,Corporate,2021-07-03
+C025,Customer_25,Lagos,Home Office,2021-05-03
+C026,Customer_26,Port Harcourt,Home Office,2022-02-05
+C027,Customer_27,Port Harcourt,Consumer,2023-02-06
+C028,Customer_28,Abuja,Home Office,2021-10-21
+C029,Customer_29,Ibadan,Home Office,2021-10-07
+C030,Customer_30,Ibadan,Corporate,2023-04-17
+C031,Customer_31,Port Harcourt,Corporate,2023-06-03
+C032,Customer_32,Ibadan,Consumer,2022-09-02
+C033,Customer_33,Ibadan,Home Office,2021-07-17
+C034,Customer_34,Lagos,Home Office,2023-09-09
+C035,Customer_35,Port Harcourt,Home Office,2023-06-26
+C036,Customer_36,Kano,Consumer,2022-05-26
+C037,Customer_37,Port Harcourt,Consumer,2023-01-22
+C038,Customer_38,Kano,Corporate,2021-05-24
+C039,Customer_39,Lagos,Consumer,2022-09-01
+C040,Customer_40,Abuja,Home Office,2021-07-20
+C041,Customer_41,Ibadan,Home Office,2021-05-04
+C042,Customer_42,Lagos,Consumer,2021-07-06
+C043,Customer_43,Ibadan,Home Office,2021-11-22
+C044,Customer_44,Abuja,Home Office,2022-04-09
+C045,Customer_45,Abuja,Consumer,2021-12-15
+C046,Customer_46,Lagos,Consumer,2023-02-10
+C047,Customer_47,Abuja,Home Office,2022-10-22
+C048,Customer_48,Kano,Home Office,2023-02-03
+C049,Customer_49,Abuja,Home Office,2023-08-13
+C050,Customer_50,Ibadan,Corporate,2023-07-21
+C051,Customer_51,Ibadan,Corporate,2022-02-07
+C052,Customer_52,Ibadan,Corporate,2021-12-12
+C053,Customer_53,Ibadan,Consumer,2023-08-21
+C054,Customer_54,Kano,Corporate,2022-05-26
+C055,Customer_55,Port Harcourt,Consumer,2021-05-27
+C056,Customer_56,Lagos,Consumer,2021-05-28
+C057,Customer_57,Ibadan,Corporate,2023-05-14
+C058,Customer_58,Abuja,Corporate,2022-12-12
+C059,Customer_59,Ibadan,Corporate,2023-03-31
+C060,Customer_60,Abuja,Home Office,2022-05-04
+C061,Customer_61,Abuja,Corporate,2023-07-18
+C062,Customer_62,Ibadan,Home Office,2023-07-25
+C063,Customer_63,Kano,Consumer,2022-10-02
+C064,Customer_64,Abuja,Home Office,2022-07-05
+C065,Customer_65,Abuja,Corporate,2021-12-04
+C066,Customer_66,Ibadan,Consumer,2023-05-22
+C067,Customer_67,Abuja,Consumer,2022-10-03
+C068,Customer_68,Abuja,Consumer,2023-02-18
+C069,Customer_69,Ibadan,Home Office,2023-09-15
+C070,Customer_70,Ibadan,Corporate,2023-08-11
+C071,Customer_71,Lagos,Consumer,2022-04-18
+C072,Customer_72,Kano,Consumer,2023-08-04
+C073,Customer_73,Kano,Consumer,2021-05-31
+C074,Customer_74,Abuja,Home Office,2022-02-19
+C075,Customer_75,Kano,Home Office,2023-09-17
+C076,Customer_76,Abuja,Corporate,2021-10-25
+C077,Customer_77,Lagos,Home Office,2022-09-03
+C078,Customer_78,Ibadan,Consumer,2021-09-20
+C079,Customer_79,Ibadan,Corporate,2023-02-03
+C080,Customer_80,Ibadan,Consumer,2021-05-24
+C081,Customer_81,Kano,Consumer,2021-12-12
+C082,Customer_82,Lagos,Home Office,2022-09-16
+C083,Customer_83,Kano,Corporate,2022-07-26
+C084,Customer_84,Kano,Home Office,2023-05-31
+C085,Customer_85,Lagos,Home Office,2021-01-02
+C086,Customer_86,Lagos,Corporate,2023-06-16
+C087,Customer_87,Lagos,Consumer,2021-10-31
+C088,Customer_88,Lagos,Consumer,2021-09-11
+C089,Customer_89,Ibadan,Corporate,2022-10-14
+C090,Customer_90,Port Harcourt,Consumer,2022-03-29
+C091,Customer_91,Port Harcourt,Corporate,2021-02-06
+C092,Customer_92,Lagos,Corporate,2021-06-09
+C093,Customer_93,Port Harcourt,Home Office,2021-01-09
+C094,Customer_94,Port Harcourt,Corporate,2021-08-21
+C095,Customer_95,Lagos,Home Office,2021-04-09
+C096,Customer_96,Port Harcourt,Consumer,2022-10-21
+C097,Customer_97,Kano,Consumer,2023-03-27
+C098,Customer_98,Abuja,Consumer,2021-07-27
+C099,Customer_99,Abuja,Consumer,2021-05-11
+C100,Customer_100,Lagos,Home Office,2022-02-08

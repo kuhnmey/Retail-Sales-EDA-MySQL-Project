@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+P001,Product_1,Furniture,46525
+P002,Product_2,Electronics,20830
+P003,Product_3,Office Supplies,18429
+P004,Product_4,Electronics,7893
+P005,Product_5,Furniture,15373
+P006,Product_6,Furniture,48333
+P007,Product_7,Office Supplies,4436
+P008,Product_8,Furniture,9754
+P009,Product_9,Electronics,11677
+P010,Product_10,Office Supplies,6895
+P011,Product_11,Electronics,20738
+P012,Product_12,Electronics,31746
+P013,Product_13,Furniture,49404
+P014,Product_14,Furniture,33352
+P015,Product_15,Furniture,40790
+P016,Product_16,Furniture,42919
+P017,Product_17,Furniture,6600
+P018,Product_18,Office Supplies,30124
+P019,Product_19,Electronics,28643
+P020,Product_20,Electronics,41764
+P021,Product_21,Electronics,10007
+P022,Product_22,Electronics,46714
+P023,Product_23,Furniture,38410
+P024,Product_24,Electronics,45080
+P025,Product_25,Office Supplies,41447
+P026,Product_26,Office Supplies,9208
+P027,Product_27,Electronics,19589
+P028,Product_28,Electronics,44484
+P029,Product_29,Office Supplies,18453
+P030,Product_30,Office Supplies,37212
